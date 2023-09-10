@@ -4,386 +4,386 @@ My solutions to [CSSBattle](https://cssbattle.dev/) problems.
 
 ## Battles
 
-Battle #1 – Pilot Battle
+### Battle #1 – Pilot Battle
 
-/#1 - Simply Square
+Problem #1 - Simply Square
 
-/#2 - Carrom
+Problem #2 - Carrom
 
-/#3 - Push Button
+Problem #3 - Push Button
 
-/#4 - Ups n Downs
+Problem #4 - Ups n Downs
 
-/#5 - Acid Rain
+Problem #5 - Acid Rain
 
-/#6 - Missing Slice
+Problem #6 - Missing Slice
 
-/#7 - Leafy Trail
+Problem #7 - Leafy Trail
 
-/#8 - Forking Crazy
+Problem #8 - Forking Crazy
 
-/#9 - Tesseract
+Problem #9 - Tesseract
 
-/#10 - Cloaked Spirits
+Problem #10 - Cloaked Spirits
 
-/#11 - Eye of Sauron
+Problem #11 - Eye of Sauron
 
-/#12 - Wiggly Moustache
+Problem #12 - Wiggly Moustache
 
-Battle #2 – Visibility
+### Battle #2 – Visibility
 
-/#13 - Totally Triangle
+Problem #13 - Totally Triangle
 
-/#14 - Web Maker Logo
+Problem #14 - Web Maker Logo
 
-/#15 - Overlap
+Problem #15 - Overlap
 
-/#16 - Eye of the Tiger
+Problem #16 - Eye of the Tiger
 
-/#17 - Fidget Spinner
+Problem #17 - Fidget Spinner
 
-/#18 - Matrix
+Problem #18 - Matrix
 
-Battle #3 – Cursor
+### Battle #3 – Cursor
 
-/#19 -
+Problem #19 -
 
-/#20 -
+Problem #20 -
 
-Battle #4 – Display
+### Battle #4 – Display
 
-/#21 -
+Problem #21 -
 
-/#22 - Cloud
+Problem #22 - Cloud
 
-/#23 - Boxception
+Problem #23 - Boxception
 
-/#24 -
+Problem #24 -
 
-/#25 -
+Problem #25 -
 
-/#26 -
+Problem #26 -
 
-/#27 -
+Problem #27 -
 
-/#28 -
+Problem #28 -
 
-Battle #5 – Inline
+### Battle #5 – Inline
 
-/#29 -
+Problem #29 -
 
-/#30 -
+Problem #30 -
 
-Battle #6 – Conic
+### Battle #6 – Conic
 
-/#31 -
+Problem #31 -
 
-/#32 -
+Problem #32 -
 
-Battle #7 – Backface
+### Battle #7 – Backface
 
-/#33 -
+Problem #33 -
 
-/#34 -
+Problem #34 -
 
-/#35 -
+Problem #35 -
 
-/#36 -
+Problem #36 -
 
-/#37 -
+Problem #37 -
 
-/#38 -
+Problem #38 -
 
-/#39 - Sunset
+Problem #39 - Sunset
 
-/#40 - Letter B
+Problem #40 - Letter B
 
-/#41 - Fox Head
+Problem #41 - Fox Head
 
-Battle #8 – Transition
+### Battle #8 – Transition
 
-/#42 - Baby
+Problem #42 - Baby
 
-/#43 - Wrench
+Problem #43 - Wrench
 
-/#44 - Stripes
+Problem #44 - Stripes
 
-Battle #9 – Margin
+### Battle #9 – Margin
 
-/#45 - Magical Tree
+Problem #45 - Magical Tree
 
-/#46 - Mountains
+Problem #46 - Mountains
 
-Battle #10 – Block
+### Battle #10 – Block
 
-/#47 -
+Problem #47 -
 
-/#48 - Wash Your Hands
+Problem #48 - Wash Your Hands
 
-/#49 - Stay at Home
+Problem #49 - Stay at Home
 
-/#50 - Use Hand Sanitizer
+Problem #50 - Use Hand Sanitizer
 
-/#51 - Wear a Mask
+Problem #51 - Wear a Mask
 
-/#52 - Break the Chain
+Problem #52 - Break the Chain
 
-Battle #11 – Overflow
+### Battle #11 – Overflow
 
-/#53 - Pastel Logo
+Problem #53 - Pastel Logo
 
-/#54 - Black Lives Matter
+Problem #54 - Black Lives Matter
 
-/#55 - Windmill
+Problem #55 - Windmill
 
-/#56 - Skull
+Problem #56 - Skull
 
-/#57 - Pillars
+Problem #57 - Pillars
 
-/#58 - Rose
+Problem #58 - Rose
 
-/#59 - Earth
+Problem #59 - Earth
 
-/#60 - Evil Triangles
+Problem #60 - Evil Triangles
 
-Battle #12 – Blend
+### Battle #12 – Blend
 
-/#61 - ImprovMX
+Problem #61 - ImprovMX
 
-/#62 - Sunset
+Problem #62 - Sunset
 
-/#63 - Command
+Problem #63 - Command
 
-/#64 - Door Knob
+Problem #64 - Door Knob
 
-/#65 - Max Volume
+Problem #65 - Max Volume
 
-/#66 - Batmicky
+Problem #66 - Batmicky
 
-/#67 - Video Reel
+Problem #67 - Video Reel
 
-/#68 -
+Problem #68 -
 
-Battle #13 – Clip
+### Battle #13 – Clip
 
-/#69 -
+Problem #69 -
 
-/#70 -
+Problem #70 -
 
-/#71 -
+Problem #71 -
 
-/#72 -
+Problem #72 -
 
-/#73 -
+Problem #73 -
 
-/#74 -
+Problem #74 -
 
-/#75 -
+Problem #75 -
 
-/#76 -
+Problem #76 -
 
-Battle #14 – Z-Index
+### Battle #14 – Z-Index
 
-/#77 -
+Problem #77 -
 
-/#78 -
+Problem #78 -
 
-/#79 -
+Problem #79 -
 
-/#80 -
+Problem #80 -
 
-Battle #15 – Filter
+### Battle #15 – Filter
 
-/#81 -
+Problem #81 -
 
-/#82 -
+Problem #82 -
 
-/#83 -
+Problem #83 -
 
-/#84 -
+Problem #84 -
 
-/#85 -
+Problem #85 -
 
-/#86 -
+Problem #86 -
 
-/#87 -
+Problem #87 -
 
-/#88 -
+Problem #88 -
 
-Battle #16 – Aspect
+### Battle #16 – Aspect
 
-/#89 -
+Problem #89 -
 
-/#90 -
+Problem #90 -
 
-/#91 -
+Problem #91 -
 
-/#92 -
+Problem #92 -
 
-/#93 -
+Problem #93 -
 
-/#94 -
+Problem #94 -
 
-/#95 -
+Problem #95 -
 
-/#96 -
+Problem #96 -
 
-Battle #17 – Christmas
+### Battle #17 – Christmas
 
-/#97 -
+Problem #97 -
 
-/#98 -
+Problem #98 -
 
-/#99 -
+Problem #99 -
 
-/#100 -
+Problem #100 -
 
-Battle #18 – Float
+### Battle #18 – Float
 
-/#101 -
+Problem #101 -
 
-/#102 -
+Problem #102 -
 
-/#103 -
+Problem #103 -
 
-/#104 -
+Problem #104 -
 
-/#105 -
+Problem #105 -
 
-/#106 -
+Problem #106 -
 
-/#107 -
+Problem #107 -
 
-/#108 -
+Problem #108 -
 
-Battle #19 – Spacing
+### Battle #19 – Spacing
 
-/#109 -
+Problem #109 -
 
-/#110 -
+Problem #110 -
 
-/#111 -
+Problem #111 -
 
-/#112 -
+Problem #112 -
 
-/#113 -
+Problem #113 -
 
-/#114 -
+Problem #114 -
 
-/#115 -
+Problem #115 -
 
-/#116 -
+Problem #116 -
 
-Battle #20 – Hover
+### Battle #20 – Hover
 
-/#117 -
+Problem #117 -
 
-/#118 -
+Problem #118 -
 
-/#119 -
+Problem #119 -
 
-/#120 -
+Problem #120 -
 
-/#121 -
+Problem #121 -
 
-/#122 -
+Problem #122 -
 
-/#123 -
+Problem #123 -
 
-/#124 -
+Problem #124 -
 
-Battle #21 – Rotate
+### Battle #21 – Rotate
 
-/#125 -
+Problem #125 -
 
-/#126 -
+Problem #126 -
 
-/#127 -
+Problem #127 -
 
-/#128 -
+Problem #128 -
 
-/#129 -
+Problem #129 -
 
-/#130 -
+Problem #130 -
 
-/#131 -
+Problem #131 -
 
-/#132 -
+Problem #132 -
 
-Battle #22 – Grid
+### Battle #22 – Grid
 
-/#133 -
+Problem #133 -
 
-/#134 -
+Problem #134 -
 
-/#135 -
+Problem #135 -
 
-/#136 -
+Problem #136 -
 
-/#137 -
+Problem #137 -
 
-/#138 -
+Problem #138 -
 
-/#139 -
+Problem #139 -
 
-/#140 -
+Problem #140 -
 
-Battle #23 – Contain
+### Battle #23 – Contain
 
-/#141 -
+Problem #141 -
 
-/#142 -
+Problem #142 -
 
-Battle #24 – Offset
+### Battle #24 – Offset
 
-/#143 -
+Problem #143 -
 
-/#144 -
+Problem #144 -
 
-/#145 -
+Problem #145 -
 
-/#146 -
+Problem #146 -
 
-/#147 -
+Problem #147 -
 
-/#148 -
+Problem #148 -
 
-/#149 -
+Problem #149 -
 
-/#150 -
+Problem #150 -
 
-Battle #25 – Flex
+### Battle #25 – Flex
 
-/#151 -
+Problem #151 -
 
-/#152 -
+Problem #152 -
 
-/#153 -
+Problem #153 -
 
-/#154 -
+Problem #154 -
 
-/#155 -
+Problem #155 -
 
-/#156 -
+Problem #156 -
 
-/#157 -
+Problem #157 -
 
-/#158 -
+Problem #158 -
 
-Battle #26 – Initial
+### Battle #26 – Initial
 
-/#159 -
+Problem #159 -
 
-/#160 - Donut
+Problem #160 - Donut
 
-/#161 -
+Problem #161 -
 
-/#162 -
+Problem #162 -
 
-/#163 -
+Problem #163 -
 
-/#164 -
+Problem #164 -
 
-/#165 -
+Problem #165 -
 
-/#166 -
+Problem #166 -
