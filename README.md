@@ -6,7 +6,11 @@ My solutions to [CSSBattle](https://cssbattle.dev/) problems.
 
 ### Battle #1 – Pilot Battle
 
-Problem #1 - Simply Square
+[Problem #1 - Simply Square](/battle-01/problem-01-simply-square.md)
+
+| ![Simply Square](/images/problem-01-simply-square.png "Simply Square") |
+|:--:|
+| [_Simply Square_](https://cssbattle.dev/play/1) |
 
 Problem #2 - Carrom
 
