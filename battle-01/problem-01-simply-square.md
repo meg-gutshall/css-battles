@@ -2,7 +2,7 @@
 
 ## Attempt #1
 
-Score: 691.3
+Score: 691.3<br />
 Characters: 155
 
 ```html
@@ -22,8 +22,8 @@ Characters: 155
 
 ## Attempt #2
 
-Score: 738.87
-Characters: 111
+- Score: 738.87
+- Characters: 111
 
 ```html
 <style>body{background:linear-gradient(#0000 200px,#5d3a3a 200px),linear-gradient(90deg,#b5e0ba 50%,#5d3a3a 50%
@@ -32,6 +32,7 @@ Characters: 111
 ## Attempt #3
 
 Score: 776.23
+
 Characters: 86
 
 ```html
