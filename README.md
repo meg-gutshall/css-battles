@@ -50,53 +50,53 @@ My solutions to [CSSBattle](https://cssbattle.dev/) problems.
 
 ### Battle #3 – Cursor
 
-Problem #19 -
+Problem #19 - Cube
 
-Problem #20 -
+Problem #20 - Ticket
 
 ### Battle #4 – Display
 
-Problem #21 -
+Problem #21 - SitePoint Logo
 
 [Problem #22 - Cloud](/battle-04/problem-22-cloud.md)
 
 [Problem #23 - Boxception](/battle-04/problem-23-boxception.md)
 
-Problem #24 -
+Problem #24 - Switches
 
-Problem #25 -
+Problem #25 - Blossom
 
-Problem #26 -
+Problem #26 - Smiley
 
-Problem #27 -
+Problem #27 - Lock Up
 
-Problem #28 -
+Problem #28 - Cups & Balls
 
 ### Battle #5 – Inline
 
-Problem #29 -
+Problem #29 - Suffocate
 
-Problem #30 -
+Problem #30 - Horizon
 
 ### Battle #6 – Conic
 
-Problem #31 -
+Problem #31 - Equals
 
-Problem #32 -
+Problem #32 - Band-aid
 
 ### Battle #7 – Backface
 
-Problem #33 -
+Problem #33 - Birdie
 
-Problem #34 -
+Problem #34 - Christmas Tree
 
-Problem #35 -
+Problem #35 - Ice Cream
 
-Problem #36 -
+Problem #36 - Interleaved
 
-Problem #37 -
+Problem #37 - Tunnel
 
-Problem #38 -
+Problem #38 - Not Simply Square
 
 [Problem #39 - Sunset](/battle-07/problem-39-sunset.md)
 
@@ -120,7 +120,7 @@ Problem #38 -
 
 ### Battle #10 – Block
 
-Problem #47 -
+Problem #47 - Corona Virus
 
 [Problem #48 - Wash Your Hands](/battle-10/problem-48-wash-your-hands.md)
 
@@ -156,7 +156,7 @@ Problem #47 -
 
 [Problem #62 - Sunset](/battle-12/problem-62-sunset.md)
 
-[Problem #63 - Command](/battle-12/problem-63-command.md)
+[Problem #63 - Command Key](/battle-12/problem-63-command.md)
 
 [Problem #64 - Door Knob](/battle-12/problem-64-door-knob.md)
 
@@ -166,227 +166,227 @@ Problem #47 -
 
 [Problem #67 - Video Reel](/battle-12/problem-67-video-reel.md)
 
-Problem #68 -
+Problem #68 - Bell
 
 ### Battle #13 – Clip
 
-Problem #69 -
+Problem #69 - PushOwl
 
-Problem #70 -
+Problem #70 - Froggy
 
-Problem #71 -
+Problem #71 - Elephant
 
-Problem #72 -
+Problem #72 - Sheep
 
-Problem #73 -
+Problem #73 - Happy Tiger
 
-Problem #74 -
+Problem #74 - Danger Noodle
 
-Problem #75 -
+Problem #75 - Hippo
 
-Problem #76 -
+Problem #76 - Beeee
 
 ### Battle #14 – Z-Index
 
-Problem #77 -
+Problem #77 - Notes
 
-Problem #78 -
+Problem #78 - Ukulele
 
-Problem #79 -
+Problem #79 - Tambourine
 
-Problem #80 -
+Problem #80 - Piano
 
 ### Battle #15 – Filter
 
-Problem #81 -
+Problem #81 - Odoo
 
-Problem #82 -
+Problem #82 - Diamond Cut
 
-Problem #83 -
+Problem #83 - Supernova
 
-Problem #84 -
+Problem #84 - Junction
 
-Problem #85 -
+Problem #85 - Pythagoras
 
-Problem #86 -
+Problem #86 - Stairway
 
-Problem #87 -
+Problem #87 - Building Blocks
 
-Problem #88 -
+Problem #88 - Tight Corner
 
 ### Battle #16 – Aspect
 
-Problem #89 -
+Problem #89 - Summit
 
-Problem #90 -
+Problem #90 - Eclipse
 
-Problem #91 -
+Problem #91 - Reflection
 
-Problem #92 -
+Problem #92 - Squeeze
 
-Problem #93 -
+Problem #93 - Great Wall
 
-Problem #94 -
+Problem #94 - Ripples
 
-Problem #95 -
+Problem #95 - Pokeball
 
-Problem #96 -
+Problem #96 - Mandala
 
 ### Battle #17 – Christmas
 
-Problem #97 -
+Problem #97 - Snowman
 
-Problem #98 -
+Problem #98 - Candle
 
-Problem #99 -
+Problem #99 - Gift Box
 
-Problem #100 -
+Problem #100 - CSSBattle
 
 ### Battle #18 – Float
 
-Problem #101 -
+Problem #101 - Sharingan
 
-Problem #102 -
+Problem #102 - One Piece
 
-Problem #103 -
+Problem #103 - Super Saiyan
 
-Problem #104 -
+Problem #104 - Amegakure
 
-Problem #105 -
+Problem #105 - Ryuk
 
-Problem #106 -
+Problem #106 - Ryuk's Apple
 
-Problem #107 -
+Problem #107 - Sealing Wand
 
-Problem #108 -
+Problem #108 - Clow Card
 
 ### Battle #19 – Spacing
 
-Problem #109 -
+Problem #109 - Curtain
 
-Problem #110 -
+Problem #110 - Sunrays
 
-Problem #111 -
+Problem #111 - Rain Drops
 
-Problem #112 -
+Problem #112 - Chevron
 
-Problem #113 -
+Problem #113 - Black Light
 
-Problem #114 -
+Problem #114 - Negative Box
 
-Problem #115 -
+Problem #115 - Droplet
 
-Problem #116 -
+Problem #116 - Headphones
 
 ### Battle #20 – Hover
 
-Problem #117 -
+Problem #117 - Arineo
 
-Problem #118 -
+Problem #118 - Donkey Kong
 
-Problem #119 -
+Problem #119 - Pacman
 
-Problem #120 -
+Problem #120 - Tank
 
-Problem #121 -
+Problem #121 - Duck Hunt
 
-Problem #122 -
+Problem #122 - Tetris
 
-Problem #123 -
+Problem #123 - Snake
 
-Problem #124 -
+Problem #124 - Space Invaders
 
 ### Battle #21 – Rotate
 
-Problem #125 -
+Problem #125 - Root Learn
 
-Problem #126 -
+Problem #126 - Letter A
 
-Problem #127 -
+Problem #127 - Letter I
 
-Problem #128 -
+Problem #128 - Letter N
 
-Problem #129 -
+Problem #129 - Letter B
 
-Problem #130 -
+Problem #130 - Letter O
 
-Problem #131 -
+Problem #131 - Letter W
 
-Problem #132 -
+Problem #132 - Letter S
 
 ### Battle #22 – Grid
 
-Problem #133 -
+Problem #133 - Spiral
 
-Problem #134 -
+Problem #134 - Wig
 
-Problem #135 -
+Problem #135 - Spikes
 
-Problem #136 -
+Problem #136 - Alien Eye
 
-Problem #137 -
+Problem #137 - Elbow
 
-Problem #138 -
+Problem #138 - Lotus
 
-Problem #139 -
+Problem #139 - Lamp
 
-Problem #140 -
+Problem #140 - Eclipse
 
 ### Battle #23 – Contain
 
-Problem #141 -
+Problem #141 - Third Eye
 
-Problem #142 -
+Problem #142 - Curtains
 
 ### Battle #24 – Offset
 
-Problem #143 -
+Problem #143 - Simply Circle
 
-Problem #144 -
+Problem #144 - Long Heart
 
-Problem #145 -
+Problem #145 - Spotlight
 
-Problem #146 -
+Problem #146 - Streaks
 
-Problem #147 -
+Problem #147 - Splash
 
-Problem #148 -
+Problem #148 - Eight
 
-Problem #149 -
+Problem #149 - Earthworm
 
-Problem #150 -
+Problem #150 - Finger Heart
 
 ### Battle #25 – Flex
 
-Problem #151 -
+Problem #151 - Pawn
 
-Problem #152 -
+Problem #152 - Rock
 
-Problem #153 -
+Problem #153 - Checkers
 
-Problem #154 -
+Problem #154 - Poker Chip
 
-Problem #155 -
+Problem #155 - Snakes & Ladders
 
-Problem #156 -
+Problem #156 - Chinese Checkers
 
-Problem #157 -
+Problem #157 - Monopoly
 
-Problem #158 -
+Problem #158 - Clubs
 
 ### Battle #26 – Initial
 
-Problem #159 -
+Problem #159 - Portal
 
 [Problem #160 - Donut](/battle-26/problem-160-donut.md)
 
-Problem #161 -
+Problem #161 - Converge
 
-Problem #162 -
+Problem #162 - Upwards
 
-Problem #163 -
+Problem #163 - Missing Piece
 
-Problem #164 -
+Problem #164 - Rangoli
 
 Problem #165 -
 
