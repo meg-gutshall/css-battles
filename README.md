@@ -12,41 +12,41 @@ My solutions to [CSSBattle](https://cssbattle.dev/) problems.
 |:--:|
 | [_Simply Square_](https://cssbattle.dev/play/1) |
 
-Problem #2 - Carrom
+[Problem #2 - Carrom](/battle-01/problem-02-carrom.md)
 
-Problem #3 - Push Button
+[Problem #3 - Push Button](/battle-01/problem-03-push-button.md)
 
-Problem #4 - Ups n Downs
+[Problem #4 - Ups n Downs](/battle-01/problem-04-ups-n-downs.md)
 
-Problem #5 - Acid Rain
+[Problem #5 - Acid Rain](/battle-01/problem-05-acid-rain.md)
 
-Problem #6 - Missing Slice
+[Problem #6 - Missing Slice](/battle-01/problem-06-missing-slice.md)
 
-Problem #7 - Leafy Trail
+[Problem #7 - Leafy Trail](/battle-01/problem-07-leafy-trail.md)
 
-Problem #8 - Forking Crazy
+[Problem #8 - Forking Crazy](/battle-01/problem-08-forking-crazy.md)
 
-Problem #9 - Tesseract
+[Problem #9 - Tesseract](/battle-01/problem-09-tesseract.md)
 
-Problem #10 - Cloaked Spirits
+[Problem #10 - Cloaked Spirits](/battle-01/problem-10-cloaked-spirits.md)
 
-Problem #11 - Eye of Sauron
+[Problem #11 - Eye of Sauron](/battle-01/problem-11-eye-of-sauron.md)
 
-Problem #12 - Wiggly Moustache
+[Problem #12 - Wiggly Moustache](/battle-01/problem-12-wiggly-moustache.md)
 
 ### Battle #2 – Visibility
 
-Problem #13 - Totally Triangle
+[Problem #13 - Totally Triangle](/battle-02/problem-13-totally-triangle.md)
 
-Problem #14 - Web Maker Logo
+[Problem #14 - Web Maker Logo](/battle-02/problem-14-web-maker-logo.md)
 
-Problem #15 - Overlap
+[Problem #15 - Overlap](/battle-02/problem-15-overlap.md)
 
-Problem #16 - Eye of the Tiger
+[Problem #16 - Eye of the Tiger](/battle-02/problem-16-eye-of-the-tiger.md)
 
-Problem #17 - Fidget Spinner
+[Problem #17 - Fidget Spinner](/battle-02/problem-17-fidget-spinner.md)
 
-Problem #18 - Matrix
+[Problem #18 - Matrix](/battle-02/problem-18-matrix.md)
 
 ### Battle #3 – Cursor
 
@@ -58,9 +58,9 @@ Problem #20 -
 
 Problem #21 -
 
-Problem #22 - Cloud
+[Problem #22 - Cloud](/battle-04/problem-22-cloud.md)
 
-Problem #23 - Boxception
+[Problem #23 - Boxception](/battle-04/problem-23-boxception.md)
 
 Problem #24 -
 
@@ -98,73 +98,73 @@ Problem #37 -
 
 Problem #38 -
 
-Problem #39 - Sunset
+[Problem #39 - Sunset](/battle-07/problem-39-sunset.md)
 
-Problem #40 - Letter B
+[Problem #40 - Letter B](/battle-07/problem-40-letter-b.md)
 
-Problem #41 - Fox Head
+[Problem #41 - Fox Head](/battle-07/problem-41-fox-head.md)
 
 ### Battle #8 – Transition
 
-Problem #42 - Baby
+[Problem #42 - Baby](/battle-08/problem-42-baby.md)
 
-Problem #43 - Wrench
+[Problem #43 - Wrench](/battle-08/problem-43-wrench.md)
 
-Problem #44 - Stripes
+[Problem #44 - Stripes](/battle-08/problem-44-stripes.md)
 
 ### Battle #9 – Margin
 
-Problem #45 - Magical Tree
+[Problem #45 - Magical Tree](/battle-09/problem-45-magical-tree.md)
 
-Problem #46 - Mountains
+[Problem #46 - Mountains](/battle-09/problem-46-mountains.md)
 
 ### Battle #10 – Block
 
 Problem #47 -
 
-Problem #48 - Wash Your Hands
+[Problem #48 - Wash Your Hands](/battle-10/problem-48-wash-your-hands.md)
 
-Problem #49 - Stay at Home
+[Problem #49 - Stay at Home](/battle-10/problem-49-stay-at-home.md)
 
-Problem #50 - Use Hand Sanitizer
+[Problem #50 - Use Hand Sanitizer](/battle-10/problem-50-use-hand-sanitizer.md)
 
-Problem #51 - Wear a Mask
+[Problem #51 - Wear a Mask](/battle-10/problem-51-wear-a-mask.md)
 
-Problem #52 - Break the Chain
+[Problem #52 - Break the Chain](/battle-10/problem-52-break-the-chain.md)
 
 ### Battle #11 – Overflow
 
-Problem #53 - Pastel Logo
+[Problem #53 - Pastel Logo](/battle-11/problem-53-pastel-logo.md)
 
-Problem #54 - Black Lives Matter
+[Problem #54 - Black Lives Matter](/battle-11/problem-54-black-lives-matter.md)
 
-Problem #55 - Windmill
+[Problem #55 - Windmill](/battle-11/problem-55-windmill.md)
 
-Problem #56 - Skull
+[Problem #56 - Skull](/battle-11/problem-56-skull.md)
 
-Problem #57 - Pillars
+[Problem #57 - Pillars](/battle-11/problem-57-pillars.md)
 
-Problem #58 - Rose
+[Problem #58 - Rose](/battle-11/problem-58-rose.md)
 
-Problem #59 - Earth
+[Problem #59 - Earth](/battle-11/problem-59-earth.md)
 
-Problem #60 - Evil Triangles
+[Problem #60 - Evil Triangles](/battle-11/problem-60-evil-triangles.md)
 
 ### Battle #12 – Blend
 
-Problem #61 - ImprovMX
+[Problem #61 - ImprovMX](/battle-12/problem-61-improvmx.md)
 
-Problem #62 - Sunset
+[Problem #62 - Sunset](/battle-12/problem-62-sunset.md)
 
-Problem #63 - Command
+[Problem #63 - Command](/battle-12/problem-63-command.md)
 
-Problem #64 - Door Knob
+[Problem #64 - Door Knob](/battle-12/problem-64-door-knob.md)
 
-Problem #65 - Max Volume
+[Problem #65 - Max Volume](/battle-12/problem-65-max-volume.md)
 
-Problem #66 - Batmicky
+[Problem #66 - Batmicky](/battle-12/problem-66-batmicky.md)
 
-Problem #67 - Video Reel
+[Problem #67 - Video Reel](/battle-12/problem-67-video-reel.md)
 
 Problem #68 -
 
@@ -378,7 +378,7 @@ Problem #158 -
 
 Problem #159 -
 
-Problem #160 - Donut
+[Problem #160 - Donut](/battle-26/problem-160-donut.md)
 
 Problem #161 -
 
