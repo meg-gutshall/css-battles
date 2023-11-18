@@ -388,6 +388,34 @@ Problem #163 - Missing Piece
 
 Problem #164 - Rangoli
 
-Problem #165 -
+Problem #165 - Pyramid
 
-Problem #166 -
+Problem #166 - Flow
+
+### Battle #27 – Relative
+
+Problem #167 - React India
+
+Problem #168 - Carpet
+
+Problem #169 - Abstract Plate
+
+Problem #170 - Party Hat
+
+### Battle #28 – Revert
+
+Problem #171 - Pumpkin
+
+Problem #172 - Crossbones
+
+Problem #173 - Hockey Mask
+
+Problem #174 - Witch's Hat
+
+Problem #175 - Evil Cat
+
+Problem #17 - Castlevania
+
+Problem #177 - Frankenstein
+
+Problem #178 - Candy
